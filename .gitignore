@@ -1,0 +1,13 @@
+# Environnement
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# uv
+.python-version
